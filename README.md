@@ -1,6 +1,7 @@
 # RISC-V 裸机 LeNet-5 推理系统
 Bare-metal LeNet-5 Inference System on RISC-V
 本项目实现了 LeNet-5 卷积神经网络在裸机 RISC-V SystemC 模拟器中的推理运行，支持双架构 RV32IMAC 与 RV64IMAC，适用于系统级建模、指令集对比、AI 推理性能分析等研究任务。
+
 This project implements the forward inference of the LeNet-5 CNN on a bare-metal RISC-V SystemC simulator, supporting both RV32IMAC and RV64IMAC architectures. It is suitable for research on system-level modeling, ISA comparison, and AI inference performance evaluation.
 
 # 主要文件结构 | Project Structure
